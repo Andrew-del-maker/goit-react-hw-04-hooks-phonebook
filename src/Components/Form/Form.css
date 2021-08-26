@@ -1,0 +1,16 @@
+input {
+  padding: 5px 10px;
+  border-radius: 7px;
+}
+input:focus {
+  padding-left: 20px;
+  background-color: olive;
+}
+button {
+  padding: 5px 10px;
+  background: olive;
+  border-radius: 5px;
+}
+button:first-child {
+  margin-left: 10px;
+}
